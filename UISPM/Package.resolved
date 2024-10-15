@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GenesysCloudCore",
+        "repositoryURL": "https://github.com/GolanSG/CoreSPM.git",
+        "state": {
+          "branch": null,
+          "revision": "e227f685f1e82b160fe61de1adb7e1b791e3a234",
+          "version": "1.10.1"
+        }
+      },
+      {
+        "package": "GenesysCloudMessenger",
+        "repositoryURL": "https://github.com/GolanSG/MessengerSPM.git",
+        "state": {
+          "branch": null,
+          "revision": "f181276a1f12f10015dbb12360b6cd173dd1c8cd",
+          "version": "1.10.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
